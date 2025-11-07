@@ -1,7 +1,7 @@
 [project]
 name = "cct-ca1-secure-programming-and-scripting"
 version = "0.1.0"
-description = "Add your description here"
+description = "CCT CA1 Secure Programming and Scripting."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
