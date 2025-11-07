@@ -1,0 +1,7 @@
+version = 1
+requires-python = ">=3.12"
+
+[[package]]
+name = "cct-ca1-secure-programming-and-scripting"
+version = "0.1.0"
+source = { virtual = "." }
